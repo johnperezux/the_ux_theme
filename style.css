@@ -7,3 +7,7 @@ Description: A custom WordPRess theme built made by Johnathan Perez
 Version: 1.0.0
 Text Domain: the_ux_theme
 */
+
+body{
+    background-color: red;
+}

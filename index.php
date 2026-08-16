@@ -1,5 +1,5 @@
 <?php get_header();
-echo('red')
+echo('reddd')
 ?>
 
 
